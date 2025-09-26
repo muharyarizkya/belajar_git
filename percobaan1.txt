@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 belajar git 
+=======
+belajar git percobaan 1
+>>>>>>> d0b5f28 (commit pertama)
